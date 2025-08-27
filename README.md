@@ -38,13 +38,13 @@ You can add folders like `assets/`, `images/`, or `styles/` later.
 ## 📸 Screenshots
 
 ### 🔹 Screenshot 1
-![Screenshot 1](1.png)
+![Screenshot 1](Z1.png)
 
 ### 🔹 Screenshot 2
-![Screenshot 2](2.png)
+![Screenshot 2](ZZ2.png)
 
 ### 🔹 Screenshot 3
-![Screenshot 3](3.png)
+![Screenshot 3](ZZZ3.png)
 
 
 ## License
