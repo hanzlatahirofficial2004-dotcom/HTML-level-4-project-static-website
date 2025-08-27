@@ -33,17 +33,18 @@ You can add folders like `assets/`, `images/`, or `styles/` later.
 - Replace placeholder text with real content; consider adding CSS for styling.
 - Validate with the W3C HTML validator for best practices.
 
+
+
 ## 📸 Screenshots
 
 ### 🔹 Screenshot 1
-![Screenshot 1](screenshots/1.png)
+![screenshot 1](screenshorts/1.png)
 
 ### 🔹 Screenshot 2
-![Screenshot 2](screenshots/2.png)
+![screenshot 2](screenshorts/2.png)
 
 ### 🔹 Screenshot 3
-![Screenshot 3](screenshots/3.png)
-
+![screenshot 3](screenshorts/3.png)
 
 
 ## License
