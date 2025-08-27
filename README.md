@@ -33,8 +33,18 @@ You can add folders like `assets/`, `images/`, or `styles/` later.
 - Replace placeholder text with real content; consider adding CSS for styling.
 - Validate with the W3C HTML validator for best practices.
 
-## Screenshots (Optional)
-Create an `assets/screenshots/` folder and drop images. Reference them in this README using Markdown.
+## 📸 Screenshots
+
+### 🔹 Screenshot 1
+![Screenshot 1](screenshots/1.png)
+
+### 🔹 Screenshot 2
+![Screenshot 2](screenshots/2.png)
+
+### 🔹 Screenshot 3
+![Screenshot 3](screenshots/3.png)
+
+
 
 ## License
 Licensed under the **MIT License**. See `LICENSE` for details.
