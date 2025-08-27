@@ -35,16 +35,16 @@ You can add folders like `assets/`, `images/`, or `styles/` later.
 
 
 
-## 📸 Screenshorts
+## 📸 Screenshots
 
-### 🔹 Screenshort 1
-![screenshort 1](screenshorts/1.png)
+### 🔹 Screenshot 1
+![Screenshot 1](1.png)
 
-### 🔹 Screenshort 2                         
-![screenshort 2](screenshorts/2.png)
+### 🔹 Screenshot 2
+![Screenshot 2](2.png)
 
-### 🔹 Screenshort 3
-![screenshort 3](screenshorts/3.png)
+### 🔹 Screenshot 3
+![Screenshot 3](3.png)
 
 
 ## License
